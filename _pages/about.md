@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in Electrical Engineering and Computer Sciences at the University of California, Berkeley. I am advised by [Javad Lavaei](https://lavaei.ieor.berkeley.edu/) and [Somayeh Sojoudi](http://people.eecs.berkeley.edu/~sojoudi/). My research interests are in control and optimization, specifically as they relate to energy and power systems.
+I am a first-year PhD student in Electrical Engineering and Computer Sciences at the University of California, Berkeley. I am advised by [Javad Lavaei](https://lavaei.ieor.berkeley.edu/) and [Somayeh Sojoudi](http://people.eecs.berkeley.edu/~sojoudi/). My research interests are in control and optimization for energy and power systems.
