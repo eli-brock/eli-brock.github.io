@@ -12,4 +12,4 @@ I am a first-year PhD student in Electrical Engineering and Computer Sciences at
 
 Before coming to Berkeley, I recieved my B.S. in Electrical Engineering from the University of Pittsburgh and worked part-time for the Buildings and Connected Systems group at Pacific Northwest National Laboratory. 
 
-I am supported by the Natoinal Science Foundation's Graduate Research Fellowship Program (NSF GRFP).
+I am supported by the National Science Foundation's Graduate Research Fellowship Program (NSF GRFP).
