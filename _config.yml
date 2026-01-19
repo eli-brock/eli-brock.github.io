@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Eli Brock"
   avatar           : "profile.png"
-  bio              : "Graduate Student, UC Berkeley"
+  bio              : "PhD Candidate, UC Berkeley"
   location         : "Berkeley, California, USA"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=APjjwuaYF_Qkzxt7F3MFnxVIAXmPl1-sbzxSuX7kmgVPIIzLqGUlIsQN09ewF-pXs2OQuIPO3iwJIqdT9I1BJfXVON9_&user=uYdx7F8AAAAJ"
   email            : "eli.brock@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
